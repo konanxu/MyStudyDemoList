@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AnimationListTableViewController.h
 //  MyStudyDemoList
 //
 //  Created by Konan on 16/3/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AnimationListTableViewController : UITableViewController
 
 @end
-
